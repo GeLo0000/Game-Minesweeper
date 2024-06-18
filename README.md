@@ -18,10 +18,10 @@ it is impossible to lose on the first move.
 ## Gameplay
 
 If the player does not hit a mine
-![Gameplay without mine hit](path/to/safe-move.gif)
+![Gameplay without mine hit](README_media/win.gif)
 
 If the player hits a mine
-![Gameplay with mine hit](path/to/mine-hit.gif)
+![Gameplay with mine hit](README_media/lose.gif)
 
 ---
 
