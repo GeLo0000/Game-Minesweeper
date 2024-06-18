@@ -4,8 +4,6 @@
 
 ## Project Overview
 
----
-
 This project was created to practice C language skills and gain experience with OpenGL.
 
 ---
