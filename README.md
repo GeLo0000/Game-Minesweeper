@@ -1,8 +1,5 @@
 # Game Minesweeper
 
-![C](https://img.shields.io/badge/-C-blue)
-![OpenGL](https://img.shields.io/badge/-OpenGL-green)
-
 ---
 
 ## Project Overview
