@@ -1,8 +1,22 @@
 # Game Minesweeper
 
+![C](https://img.shields.io/badge/language-C-blue)
+![OpenGL](https://img.shields.io/badge/graphics-OpenGL-green)
+
+---
+
+## Project Overview
+
 ---
 
 This project was created to practice C language skills and gain experience with OpenGL.
+
+---
+
+## Technologies Used
+
+- **Programming Language**: C
+- **Graphics Library**: OpenGL
 
 ---
 
